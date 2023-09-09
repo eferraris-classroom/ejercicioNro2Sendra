@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97066888-6795-49c8-9031-3bc75d82d66c" name="Changes" comment="Agregar visualizacion de argumentos cargados">
+    <list default="true" id="97066888-6795-49c8-9031-3bc75d82d66c" name="Changes" comment="Cambio en la visualizacion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Main.java" afterDir="false" />
     </list>
@@ -50,6 +50,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ar.edu.undef.fie.Main" />
       <module name="EjercicioNro2_Sendra.main" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 6 7 8 9 10 11" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ar.edu.undef.fie.*" />
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694298128524</updated>
-      <workItem from="1694298129527" duration="1417000" />
+      <workItem from="1694298129527" duration="2468000" />
     </task>
     <task id="LOCAL-00001" summary="first Commit">
       <option name="closed" value="true" />
@@ -87,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694299082749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cambio en la visualizacion">
+      <option name="closed" value="true" />
+      <created>1694299640533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694299640533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Commit" />
     <MESSAGE value="Agregar visualizacion de argumentos cargados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregar visualizacion de argumentos cargados" />
+    <MESSAGE value="Cambio en la visualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio en la visualizacion" />
   </component>
 </project>
